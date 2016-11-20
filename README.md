@@ -38,3 +38,10 @@ You can pass the following, general command-line options when running CMake:
   - `-DBUILD_SHARED_LIBS=[ON|OFF (default)]`: build shared libraries instead of static
   - `-DBUILD_DOXYGEN_DOCS[=ON|OFF (default)]`: build the [Doxygen](http://www.doxygen.org "Doxygen homepage") documentation ([LaTeX](http://www.latex-project.org/) must be installed with `amsmath` package)
   - `-DBUILD_TESTS[=ON|OFF (default)]`: build tests (execute tests from build-directory using `ctest -V`)
+  
+Library and command line utility
+--------------------------------
+
+On successful build you will get HammingDistance.lib and HammingDistance.h which you can use to link with your project, and
+**calchd** command line utility whcih can calculate Hamming distance for two given as parameter strings.
+
