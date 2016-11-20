@@ -1,5 +1,5 @@
 # HammingDistanceLib
-\cond [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/kartikkumar/cppbase.svg?branch=master)](https://travis-ci.org/kartikkumar/cppbase)[![Coverity Scan Build Status](https://scan.coverity.com/projects/3686/badge.svg)](https://scan.coverity.com/projects/3686) [![Coverage Status](https://coveralls.io/repos/github/kartikkumar/cppbase/badge.svg?branch=master)](https://coveralls.io/github/kartikkumar/cppbase?branch=master) \endcond
+[![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](http://opensource.org/licenses/MIT)
 
 Library to calculate Hamming distance between 2 binary blobs
 
